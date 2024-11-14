@@ -38,5 +38,3 @@ Completed via Accenture's North America Project Management Job Simulation on For
 **Certificate of Completion Issued by:**  
 Caroline Dudley, Managing Director, North America Recruiting  
 Tom Brunskill, CEO & Co-Founder, Forage  
-
-Check out the simulation here: [Accenture NAM Project Management](https://www.theforage.com/simulations/accenture-nam/project-management-wuct) 
